@@ -1,0 +1,171 @@
+============================================================
+   Tang Dynasty, V6.2.168116
+   Copyright (c) 2012-2025 Anlogic Inc.
+   Executable = D:/06_app/Anlogic/TD_6.2.1_Engineer_6.2.168.116/bin/run.exe
+   Built at =   16:32:07 Jun 12 2025
+   Run by =     AmyLe
+   Run Date =   Tue Nov  3 15:52:36 2026
+
+   Run on =     DELL-S12IAQVPNV
+============================================================
+Copyright (c) 1998-2019 The OpenSSL Project.  All rights reserved.
+This product includes software developed by the OpenSSL Project
+for use in the OpenSSL Toolkit (http://www.openssl.org/)
+Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+All rights reserved.
+This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)
+HDL-7225 CRITICAL-WARNING: 'e962_zoom_level_frame' is already implicitly declared on line 1107 in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1340)
+HDL-7225 CRITICAL-WARNING: 'e939_left_display' is already implicitly declared on line 1467 in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1482)
+HDL-7225 CRITICAL-WARNING: 'e939_right_display' is already implicitly declared on line 1468 in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1483)
+HDL-7225 CRITICAL-WARNING: 'e940_level_display' is already implicitly declared on line 1471 in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1488)
+HDL-7225 CRITICAL-WARNING: 'e942_pitch_display' is already implicitly declared on line 1472 in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1499)
+HDL-7225 CRITICAL-WARNING: 'e932_pcm_audible' is already implicitly declared on line 1445 in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1614)
+HDL-7225 CRITICAL-WARNING: 'e932_hdmi_audible' is already implicitly declared on line 1446 in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1615)
+HDL-5373 WARNING: identifier 'rst_tf' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(92)
+HDL-5373 WARNING: identifier 'rst_tf' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(93)
+HDL-5373 WARNING: identifier 'rst_tf' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(108)
+HDL-5373 WARNING: identifier 'rst_tf' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(109)
+HDL-5373 WARNING: identifier 'rst_tf' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(135)
+HDL-5373 WARNING: identifier 'rst_tf' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(136)
+HDL-5373 WARNING: identifier 'video_fifo_underflow_v' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(182)
+HDL-5373 WARNING: identifier 'rst_all' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(219)
+HDL-5373 WARNING: identifier 'rst_all' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(220)
+HDL-5373 WARNING: identifier 'rst_all' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(288)
+HDL-5373 WARNING: identifier 'rst_all' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(289)
+HDL-5373 WARNING: identifier 'rst_tf' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(423)
+HDL-5373 WARNING: identifier 'rst_tf' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(424)
+HDL-5373 WARNING: identifier 'e962_zoom_level_frame' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(434)
+HDL-5373 WARNING: identifier 'e962_zoom_frame_offset' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(436)
+HDL-5373 WARNING: identifier 'rst_tf' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(485)
+HDL-5373 WARNING: identifier 'rst_tf' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(486)
+HDL-5373 WARNING: identifier 'e950_metro_on50' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(768)
+HDL-5373 WARNING: identifier 'e952_mini_keys_active_sd' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(911)
+HDL-5373 WARNING: identifier 'e952_mini_keys_active_sd' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(913)
+HDL-5373 WARNING: identifier 'e932_force_tone' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1596)
+HDL-5373 WARNING: identifier 'e946_note_shown' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3073)
+HDL-5373 WARNING: identifier 'e946_note_shown' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3074)
+HDL-5373 WARNING: identifier 'e946_note_visible' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3086)
+HDL-5373 WARNING: identifier 'e946_note_hold' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3087)
+HDL-5373 WARNING: identifier 'stored_event_change' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3319)
+HDL-5373 WARNING: identifier 'event_push' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3319)
+HDL-5373 WARNING: identifier 'stored_note_on' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3321)
+HDL-5373 WARNING: identifier 'stored_note_on' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3323)
+HDL-5373 WARNING: identifier 'e951_band_hit' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3901)
+HDL-5373 WARNING: identifier 'cjk_id' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(4622)
+HDL-5373 WARNING: identifier 'glyph_y' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(4622)
+HDL-5373 WARNING: identifier 'pic_tag' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(4632)
+HDL-5373 WARNING: identifier 'pic_tag' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(4635)
+HDL-5373 WARNING: identifier 'overlay_color' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(4642)
+HDL-5373 WARNING: identifier 'cjk_on' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(4643)
+HDL-5373 WARNING: identifier 'glyph_x' is used before its declaration in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(4644)
+HDL-5007 WARNING: literal value 'hffff truncated to fit in 14 bits in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(6196)
+HDL-5007 WARNING: literal value 'hffff truncated to fit in 14 bits in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(6228)
+HDL-5373 WARNING: identifier 'bmp_state_code' is used before its declaration in ../../../user_source/hdl_source/SD/sd_card_bmp.v(86)
+HDL-5007 WARNING: concatenation with an unsized literal will be treated as 32 bits in ../../../user_source/hdl_source/include/sdr_init_ref.enc.v(47)
+HDL-5007 WARNING: concatenation with an unsized literal will be treated as 32 bits in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(283)
+HDL-5373 WARNING: identifier 'is_piano_flow' is used before its declaration in ../../../user_source/hdl_source/SD/fat32_bmp_read.v(123)
+HDL-5373 WARNING: identifier 'is_violin_flow' is used before its declaration in ../../../user_source/hdl_source/SD/fat32_bmp_read.v(124)
+HDL-5373 WARNING: identifier 'is_image_flow' is used before its declaration in ../../../user_source/hdl_source/SD/fat32_bmp_read.v(125)
+HDL-5373 WARNING: identifier 'is_full_image_flow' is used before its declaration in ../../../user_source/hdl_source/SD/fat32_bmp_read.v(126)
+HDL-5323 WARNING: input port 'sd_sec_write_data[7]' remains unconnected for this instance in ../../../user_source/hdl_source/SD/sd_card_bmp.v(524)
+HDL-5314 WARNING: net 'e971_cjk_rom' does not have a driver in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(4090)
+HDL-5317 WARNING: input port 'dib[31]' is not connected on this instance in ../../../user_source/hdl_source/ip/afifo_16_32_256.v(231)
+HDL-5007 WARNING: actual bit length 10 differs from formal bit length 9 for port 'rdusedw' in ../../../user_source/hdl_source/SD/e93_sdram_bank_writer.v(72)
+HDL-5007 WARNING: actual bit length 10 differs from formal bit length 9 for port 'rdusedw' in ../../../user_source/hdl_source/SD/frame_read_write.v(122)
+HDL-5317 WARNING: input port 'dib[31]' is not connected on this instance in ../../../user_source/hdl_source/ip/afifo_32_16_256.v(231)
+HDL-5007 WARNING: actual bit length 10 differs from formal bit length 9 for port 'wrusedw' in ../../../user_source/hdl_source/SD/frame_read_write.v(174)
+HDL-5007 WARNING: actual bit length 24 differs from formal bit length 21 for port 'read_addr_0' in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1770)
+HDL-5007 WARNING: actual bit length 24 differs from formal bit length 21 for port 'read_addr_1' in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1771)
+HDL-5007 WARNING: actual bit length 24 differs from formal bit length 21 for port 'read_addr_2' in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1772)
+HDL-5007 WARNING: actual bit length 24 differs from formal bit length 21 for port 'read_addr_3' in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1773)
+HDL-5007 WARNING: actual bit length 24 differs from formal bit length 21 for port 'read_len' in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1775)
+HDL-5007 WARNING: actual bit length 24 differs from formal bit length 21 for port 'write_addr_0' in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1788)
+HDL-5007 WARNING: actual bit length 24 differs from formal bit length 21 for port 'write_addr_1' in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1789)
+HDL-5007 WARNING: actual bit length 24 differs from formal bit length 21 for port 'write_addr_2' in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1790)
+HDL-5007 WARNING: actual bit length 24 differs from formal bit length 21 for port 'write_addr_3' in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1791)
+HDL-5007 WARNING: actual bit length 24 differs from formal bit length 21 for port 'write_len' in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1793)
+HDL-5007 WARNING: concatenation with an unsized literal will be treated as 32 bits in ../../../user_source/hdl_source/include/sdr_init_ref.enc.v(47)
+HDL-5007 WARNING: concatenation with an unsized literal will be treated as 32 bits in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(283)
+HDL-5317 WARNING: input port '**' is not connected on this instance in ../../../user_source/hdl_source/include/sdr_as_ram.enc.v(17)
+HDL-5314 WARNING: net 'S_strong_rom' does not have a driver in ../../../user_source/hdl_source/hdmi_audio_tone_i2s_64fs.v(38)
+HDL-5314 WARNING: net 'S_weak_rom' does not have a driver in ../../../user_source/hdl_source/hdmi_audio_tone_i2s_64fs.v(39)
+HDL-5314 WARNING: net 'S_click_rom' does not have a driver in ../../../user_source/hdl_source/hdmi_audio_tone_i2s_64fs.v(40)
+HDL-5007 WARNING: actual bit length ** differs from formal bit length *** for port '**' in ../../../user_source/hdl_source/hdmi1.4b_transmitter_core/hdmi_1_4b_transmitter_core_wrapper.enc.v(3307)
+HDL-5007 WARNING: actual bit length ** differs from formal bit length *** for port '**' in ../../../user_source/hdl_source/hdmi1.4b_transmitter_core/hdmi_1_4b_transmitter_core_wrapper.enc.v(3318)
+HDL-5314 WARNING: net 'e932_pcm_audible' does not have a driver in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1445)
+HDL-5314 WARNING: net 'e932_hdmi_audible' does not have a driver in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(1446)
+HDL-5001 WARNING: Contains anonymous inst(s) and/or net(s) that have not been renamed
+SYN-5013 WARNING: Undriven net: model "top" / net "U3/u2_ram/u2_wrrd/Sdr_init_ref_ba[1]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0)
+		the net's pin: pin "i1[1]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0)
+SYN-5013 WARNING: Undriven net: model "top" / net "U3/u2_ram/u2_wrrd/Sdr_init_ref_ba[0]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0)
+		the net's pin: pin "i1[0]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0)
+SYN-5013 WARNING: Undriven net: model "top" / net "sd_card_bmp_m0/sd_card_top_m0/sd_card_cmd_m0/block_write_data[7]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(17)
+		the net's pin: pin "i0[7]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(258)
+SYN-5013 WARNING: Undriven net: model "top" / net "sd_card_bmp_m0/sd_card_top_m0/sd_card_cmd_m0/block_write_data[6]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(17)
+		the net's pin: pin "i0[6]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(258)
+SYN-5013 WARNING: Undriven net: model "top" / net "sd_card_bmp_m0/sd_card_top_m0/sd_card_cmd_m0/block_write_data[5]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(17)
+		the net's pin: pin "i0[5]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(258)
+SYN-5013 WARNING: Undriven net: model "top" / net "sd_card_bmp_m0/sd_card_top_m0/sd_card_cmd_m0/block_write_data[4]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(17)
+		the net's pin: pin "i0[4]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(258)
+SYN-5013 WARNING: Undriven net: model "top" / net "sd_card_bmp_m0/sd_card_top_m0/sd_card_cmd_m0/block_write_data[3]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(17)
+		the net's pin: pin "i0[3]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(258)
+SYN-5013 WARNING: Undriven net: model "top" / net "sd_card_bmp_m0/sd_card_top_m0/sd_card_cmd_m0/block_write_data[2]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(17)
+		the net's pin: pin "i0[2]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(258)
+SYN-5013 WARNING: Undriven net: model "top" / net "sd_card_bmp_m0/sd_card_top_m0/sd_card_cmd_m0/block_write_data[1]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(17)
+		the net's pin: pin "i0[1]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(258)
+SYN-5013 WARNING: Undriven net: model "top" / net "sd_card_bmp_m0/sd_card_top_m0/sd_card_cmd_m0/block_write_data[0]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(17)
+		the net's pin: pin "i0[0]" in ../../../user_source/hdl_source/SD/sd_card_cmd.v(258)
+SYN-5025 WARNING: Using 0 for all undriven pins and nets
+SYN-5011 WARNING: Undriven pin: model "top" / inst "frame_read_write_m0/read_buf/ram_inst/ramread0_syn_4" in ../../../user_source/hdl_source/ip/afifo_32_16_256.v(822) / pin "bea[0]"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "frame_read_write_m0/read_buf/ram_inst/ramread0_syn_4" in ../../../user_source/hdl_source/ip/afifo_32_16_256.v(822) / pin "beb[0]"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "u_editor_loop_e8/ramread2_syn_4" in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3715) / pin "bea[0]"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "u_editor_loop_e8/ramread2_syn_4" in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(3715) / pin "beb[0]"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "u_editor_loop_e8/ramread6_syn_4" in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(2583) / pin "bea[0]"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "u_editor_loop_e8/ramread6_syn_4" in ../../../user_source/hdl_source/top_tf_hdmi_audio.v(2583) / pin "beb[0]"
+SYN-5025 WARNING: Using 0 for all undriven pins and nets
+SYN-6577 WARNING: The clock signal "U3/u2_ram/SDRAM_CLK" is added with the synthetic instruction (keep/mark_debug/dont_touch/max_fanout), which may create additional logic on this net
+SYN-6562 WARNING: The init value of "e93_audio_bank_dma/pcm_write_fifo/ram_inst/ramread0_syn_4(../../../user_source/hdl_source/ip/afifo_16_32_256.v(822))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "frame_read_write_m0/read_buf/ram_inst/ramread0_syn_4(../../../user_source/hdl_source/ip/afifo_32_16_256.v(822))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "frame_read_write_m0/write_buf/ram_inst/ramread0_syn_4(../../../user_source/hdl_source/ip/afifo_16_32_256.v(822))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "u_e942_pitch/ramread0_syn_4(../../../user_source/hdl_source/top_tf_hdmi_audio.v(6057))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "u_editor_loop_e8/ramread0_syn_28(../../../user_source/hdl_source/top_tf_hdmi_audio.v(3315))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "u_editor_loop_e8/ramread2_syn_4(../../../user_source/hdl_source/top_tf_hdmi_audio.v(3715))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "u_editor_loop_e8/ramread4_syn_4(../../../user_source/hdl_source/top_tf_hdmi_audio.v(3749))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "u_editor_loop_e8/ramread6_syn_4(../../../user_source/hdl_source/top_tf_hdmi_audio.v(2583))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "u_editor_loop_e8/ramread7_syn_5(../../../user_source/hdl_source/top_tf_hdmi_audio.v(2584))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "u_hdmi_1_4b_transmitter_core_wrapper/u_hdmi_edid_wrapper/u_iic_master_wrapper/u_iic_transmitter_controller/u_iic_w11_d1024_fifo/u_logic_ramfifo_syn_327(../../../user_source/hdl_source/hdmi1.4b_transmitter_core/hdmi_1_4b_transmitter_core_wrapper.enc.v(0))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "u_hdmi_1_4b_transmitter_core_wrapper/u_hdmi_tx_controller_wrapper/u_hdmi_island_data_gen/U_audio_sample_packet_2_channel/u_w96_d1024_fifo/u_logic_ramfifo_syn_497(../../../user_source/hdl_source/hdmi1.4b_transmitter_core/hdmi_1_4b_transmitter_core_wrapper.enc.v(0))" will be ignored since gate eram_init is set to off
+SYN-6562 WARNING: The init value of "u_hdmi_1_4b_transmitter_core_wrapper/u_hdmi_tx_controller_wrapper/u_video_axi_stream_receiver/u_w24_d1024_fifo/u_logic_ramfifo_syn_353(../../../user_source/hdl_source/hdmi1.4b_transmitter_core/hdmi_1_4b_transmitter_core_wrapper.enc.v(0))" will be ignored since gate eram_init is set to off
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[0]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[1]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[2]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[3]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[4]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[5]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[6]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[7]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[8]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[9]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[10]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[11]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[12]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[13]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[14]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[15]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[16]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[17]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[18]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[19]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[20]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[21]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[22]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[23]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[24]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[25]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[26]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[27]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[28]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[29]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[30]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5011 WARNING: Undriven pin: model "top" / inst "U3/u2_ram/u2_wrrd/Sdr_rd_dout_reg[31]" in ../../../user_source/hdl_source/include/sdr_wrrd.enc.v(0) / pin "clk"
+SYN-5025 WARNING: Using 0 for all undriven pins and nets

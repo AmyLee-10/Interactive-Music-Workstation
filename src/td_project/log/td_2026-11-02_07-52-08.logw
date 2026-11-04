@@ -1,0 +1,32 @@
+============================================================
+   Tang Dynasty, V6.2.168116
+   Copyright (c) 2012-2025 Anlogic Inc.
+   Executable = D:/06_app/Anlogic/TD_6.2.1_Engineer_6.2.168.116/bin/td.exe
+   Built at =   16:32:07 Jun 12 2025
+   Run by =     AmyLe
+   Run Date =   Mon Nov  2 07:52:08 2026
+
+   Run on =     DELL-S12IAQVPNV
+============================================================
+HDL-7225 CRITICAL-WARNING: 'e962_zoom_level_frame' is already implicitly declared on line 1093 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1316)
+HDL-7225 CRITICAL-WARNING: 'e939_left_display' is already implicitly declared on line 1435 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1450)
+HDL-7225 CRITICAL-WARNING: 'e939_right_display' is already implicitly declared on line 1436 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1451)
+HDL-7225 CRITICAL-WARNING: 'e940_level_display' is already implicitly declared on line 1439 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1456)
+HDL-7225 CRITICAL-WARNING: 'e942_pitch_display' is already implicitly declared on line 1440 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1467)
+HDL-7225 CRITICAL-WARNING: 'e932_pcm_audible' is already implicitly declared on line 1413 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1567)
+HDL-7225 CRITICAL-WARNING: 'e932_hdmi_audible' is already implicitly declared on line 1414 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1568)
+HDL-5007 WARNING: literal value 'hffff truncated to fit in 14 bits in ../user_source/hdl_source/top_tf_hdmi_audio.v(5474)
+HDL-5007 WARNING: literal value 'hffff truncated to fit in 14 bits in ../user_source/hdl_source/top_tf_hdmi_audio.v(5506)
+HDL-5007 WARNING: concatenation with an unsized literal will be treated as 32 bits in ../user_source/hdl_source/include/sdr_init_ref.enc.v(47)
+HDL-5007 WARNING: concatenation with an unsized literal will be treated as 32 bits in ../user_source/hdl_source/include/sdr_wrrd.enc.v(283)
+HDL-7225 CRITICAL-WARNING: 'e962_zoom_level_frame' is already implicitly declared on line 1093 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1326)
+HDL-7225 CRITICAL-WARNING: 'e939_left_display' is already implicitly declared on line 1448 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1463)
+HDL-7225 CRITICAL-WARNING: 'e939_right_display' is already implicitly declared on line 1449 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1464)
+HDL-7225 CRITICAL-WARNING: 'e940_level_display' is already implicitly declared on line 1452 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1469)
+HDL-7225 CRITICAL-WARNING: 'e942_pitch_display' is already implicitly declared on line 1453 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1480)
+HDL-7225 CRITICAL-WARNING: 'e932_pcm_audible' is already implicitly declared on line 1426 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1580)
+HDL-7225 CRITICAL-WARNING: 'e932_hdmi_audible' is already implicitly declared on line 1427 in ../user_source/hdl_source/top_tf_hdmi_audio.v(1581)
+HDL-5007 WARNING: literal value 'hffff truncated to fit in 14 bits in ../user_source/hdl_source/top_tf_hdmi_audio.v(5503)
+HDL-5007 WARNING: literal value 'hffff truncated to fit in 14 bits in ../user_source/hdl_source/top_tf_hdmi_audio.v(5535)
+HDL-5007 WARNING: concatenation with an unsized literal will be treated as 32 bits in ../user_source/hdl_source/include/sdr_init_ref.enc.v(47)
+HDL-5007 WARNING: concatenation with an unsized literal will be treated as 32 bits in ../user_source/hdl_source/include/sdr_wrrd.enc.v(283)
